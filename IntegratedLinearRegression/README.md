@@ -1,2 +1,2 @@
-# PythonCode
-python项目的相关代码
+# IntegratedLinearRegression
+常见线性回归模型的相关代码
